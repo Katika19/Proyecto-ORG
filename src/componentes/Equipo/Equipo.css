@@ -1,0 +1,25 @@
+.equipo {
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 35px;
+    position: relative;
+}
+.equipo h3 {
+    font-family: Prata;
+    font-size: 32px;
+    font-weight: 400;
+    color: #212121;
+    border-bottom: 4px solid;
+    display: inline-block;
+}
+.colaboradores {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.input-color {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
